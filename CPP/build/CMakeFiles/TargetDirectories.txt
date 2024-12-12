@@ -1,0 +1,11 @@
+/home/LiveToCode/CPP/build/CMakeFiles/edit_cache.dir
+/home/LiveToCode/CPP/build/CMakeFiles/rebuild_cache.dir
+/home/LiveToCode/CPP/build/Multithreading/CMakeFiles/MultithreadingApp.dir
+/home/LiveToCode/CPP/build/Multithreading/CMakeFiles/edit_cache.dir
+/home/LiveToCode/CPP/build/Multithreading/CMakeFiles/rebuild_cache.dir
+/home/LiveToCode/CPP/build/Files/CMakeFiles/FilesApp.dir
+/home/LiveToCode/CPP/build/Files/CMakeFiles/edit_cache.dir
+/home/LiveToCode/CPP/build/Files/CMakeFiles/rebuild_cache.dir
+/home/LiveToCode/CPP/build/STL/CMakeFiles/STLexe.dir
+/home/LiveToCode/CPP/build/STL/CMakeFiles/edit_cache.dir
+/home/LiveToCode/CPP/build/STL/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/STLexe.dir/src/String.cpp.o CMakeFiles/STLexe.dir/src/MyVector.cpp.o CMakeFiles/STLexe.dir/main.cpp.o -o STLexe 
