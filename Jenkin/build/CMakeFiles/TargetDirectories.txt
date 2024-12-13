@@ -1,0 +1,3 @@
+/home/LiveToCode/Jenkin/build/CMakeFiles/MyCppProject.dir
+/home/LiveToCode/Jenkin/build/CMakeFiles/edit_cache.dir
+/home/LiveToCode/Jenkin/build/CMakeFiles/rebuild_cache.dir
